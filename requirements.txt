@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+requests
+python-dotenv
+tqdm
+huggingface_hub
+pymupdf
+Pillow

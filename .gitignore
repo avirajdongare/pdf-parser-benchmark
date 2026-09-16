@@ -1,0 +1,30 @@
+.venv/
+__pycache__/
+.env
+.env.local
+.DS_Store
+
+data/raw/
+data/sample/pdfs/
+outputs/raw/
+
+*.pyc
+.ipynb_checkpoints/
+# Secrets
+.env
+.env.local
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Raw / generated benchmark artifacts
+data/raw/
+data/sample/pdfs/
+outputs/raw/
+outputs/eval/
+outputs/scores/
+
+# System
+.DS_Store

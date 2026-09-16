@@ -125,7 +125,7 @@ Not every page contains every content type. The official evaluator scored:
 - reading order: 20 pages
 
 ---
-# OmniDocBench Pilot (v0) & Benchmark Analysis
+## OmniDocBench Pilot (v0) & Benchmark Analysis
 
 Raw benchmark evidence should be inspectable below the leaderboard. For each provider, this repository preserves:
 
@@ -347,20 +347,6 @@ results/provider_results.csv
 
 ---
 
-## Limitations
-
-This is intentionally a **v0 methodology pilot**.
-
-- Only 20 pages
-- English only
-- Two providers
-- Local and hosted latency are not hardware-normalized
-- Docling compute cost is excluded
-- The formula gap should be inspected at the raw-output level before being generalized broadly
-
-The next version would expand the sample and add more production parsers, while keeping the same frozen-input and scoring methodology.
-
----
 
 ## Takeaway
 
